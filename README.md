@@ -12,9 +12,11 @@
 
 <br>
 
-- 🔭 I’m currently Studing **at Cairo University Faculty of Engineering**
+- 🔭 I’m currently Studing **at Cairo University Faculty of Engineering.**
 
 - 📫 How to reach me **eslammosa733@gmail.com**
+
+- 🌱 I’m currently learning **Embedded Systems.**
 
 </p>
 </p>
