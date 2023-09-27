@@ -1,10 +1,17 @@
 <h1 align="center">Hi 👋, I'm Islam Mohamed Mosa</h1>
 <h3 align="center">A passionate Embedded systems Engineer.</h3>
+
+<br>
+
+
+
+	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
+
 - 🔭 I’m currently Studing **at Cairo University**
 
 - 📫 How to reach me **eslammosa733@gmail.com**
