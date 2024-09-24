@@ -6,7 +6,10 @@
 
 
 	
-## <picture><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="30px"></picture> **About me**
+<div style="display: flex; align-items: center;">
+  <picture><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="30px"></picture>
+  <h2 style="margin: 0 0 0 10px;">About me</h2>
+</div>
 
 <picture> <img align="right" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200px"></picture>
 
