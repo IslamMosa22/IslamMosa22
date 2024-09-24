@@ -6,9 +6,9 @@
 
 
 	
-## <picture><img src="https://raw.githubusercontent.com/github/explore/main/topics/octocat/octocat.png" width="50px"></picture> **About me**
+## <picture><img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" width="50px"></picture> **About me**
 
-<picture> <img align="right" src="https://raw.githubusercontent.com/github/explore/main/topics/octocat/octocat.png" width="250px"></picture>
+<picture> <img align="right" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" width="250px"></picture>
 
 <br>
 
