@@ -6,11 +6,12 @@
 
 
 	
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **About me**
+## <picture><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50px"></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
+<picture> <img align="right" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250px"></picture>
 
 <br>
+
 
 
 - 🔭 I’m currently Studing **at Cairo University Faculty of Engineering.**
