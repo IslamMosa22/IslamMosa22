@@ -6,11 +6,9 @@
 
 ## <picture><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="25px"></picture> **About me:**
 
-<picture> <img align="right" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="160px"></picture>
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
 <br>
-
-
 
 - 🔭 I’m currently Studing **at Cairo University Faculty of Engineering.**
 
